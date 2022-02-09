@@ -1,4 +1,4 @@
-export default function Button() {
+export default function BtnItems() {
     return (
         <div className="button">
             <button className="border-4 rounded-full px-6 border-white  bg-white text-blue-600 
